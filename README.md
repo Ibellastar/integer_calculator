@@ -40,11 +40,10 @@ If there are failing checks you will see summary of the failing tests:
 ```
 Summary of Failures:
 
-1/5 1.1 Tip Calculator - CalulateTip    FAIL            0.14s   exit status 2
-2/5 1.2 Tip Calculator - CalculateTotal FAIL            0.25s   exit status 2
-3/5 2.1 Temp Converter - ConvertFToC    FAIL            0.35s   exit status 2
-4/5 2.2 Temp Converter - ConvertCToF    FAIL            0.46s   exit status 2
-5/5 3.1 Geometry - AreaOfTriangle       FAIL            0.56s   exit status 1
+1/4 Addition          FAIL            0.14s   exit status 2
+2/4 Subtraction       FAIL            0.25s   exit status 2
+3/4 Multiplication    FAIL            0.35s   exit status 2
+4/4 Division          FAIL            0.46s   exit status 2
 
 Ok:                 0
 Expected Fail:      0
