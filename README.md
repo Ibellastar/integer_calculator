@@ -4,6 +4,9 @@
 
 In this exercise you will practice working with arithmetic operators and variables with the C programming language.
 
+// include function names 
+// include an example of command line interface
+
 ### Starter Files
 
 The starter files for this exercise are located in the `src` directory. Implement the empty functions in ths following files:
